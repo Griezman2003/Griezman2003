@@ -11,7 +11,7 @@ de front end, por ahora solo soy estudiante universitario pero con muchas ganas 
     <p>* Actualmente estoy trabajando en mi portafolio personal 🔭</p>
   </div>
   <div>
-    <img width="45%" align="right"  alt="GiHub" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%">
+    <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;">
   </div>
 </div>
 
