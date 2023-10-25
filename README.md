@@ -1,6 +1,6 @@
 # Hola <Desarrolladores/>
-Hola! Mi nombre es Gamaliel Garcia, tengo conocimientos en el area de desarrollo web (Junior), me gusta mucho lo que tiene que ver con el area 
-de front end, por ahora solo soy estudiante universitario pero con muchas ganas y animo de seguir aprendiendo cada dia, gracias por visitar mi perfil 😄
+Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el area de desarrollo web, me gusta mucho lo que tiene que ver con el area 
+de front end, pero por ahora solo soy estudiante universitario pero con muchas ganas y animo de seguir aprendiendo cada dia, gracias por visitar mi perfil 😄
 
 # Sobre mi 
 <div style="display: flex;">
