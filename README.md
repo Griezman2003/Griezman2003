@@ -16,11 +16,11 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
       </li>
       <li style="display: flex; align-items: center; margin-bottom: 10px; height: 100px;">
         <img src="https://img.icons8.com/color/32/000000/handshake.png" alt="Cooperación" style="margin-right: 15px; height: 32px; width: auto;">
-        <span style="font-size: 20px; flex: 1; display: flex; align-items: center;">Siempre estoy dispuesto a cooperar con otros miembros del equipo</span>
+        <span style="font-size: 20px; flex: 1; display: flex; align-items: start;">Siempre estoy dispuesto a cooperar con otros miembros del equipo</span>
       </li>
       <li style="display: flex; align-items: center; height: 100px;">
         <img src="https://img.icons8.com/color/32/000000/telescope.png" alt="Portafolio personal" style="margin-right: 15px; height: 32px; width: auto;">
-        <span style="font-size: 20px; margin-bottom: 100px;">Actualmente estoy trabajando en mi portafolio personal</span>
+        <span style="font-size: 20px;">Actualmente estoy trabajando en mi portafolio personal</span>
       </li>
     </ul>
   </div>
