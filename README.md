@@ -8,19 +8,19 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
     <ul style="list-style-type: none; padding: 0; margin: 0;">
       <li style="display: flex; align-items: center; margin-bottom: 10px;">
         <div style="flex-shrink: 0; margin-right: 15px; display: flex; align-items: center;">
-          <img src="https://img.icons8.com/color/32/000000/book.png" alt="Autodidacta" style="height: 32px; width: auto;">
+          <img src="https://img.icons8.com/color/32/000000/book.png" alt="Autodidacta" style="height: 32px;">
         </div>
         <span style="font-size: 20px; display: flex; align-items: center; height: 32px;">Soy autodidacta</span>
       </li>
       <li style="display: flex; align-items: center; margin-bottom: 10px;">
         <div style="flex-shrink: 0; margin-right: 15px; display: flex; align-items: center;">
-          <img src="https://img.icons8.com/color/32/000000/teamwork.png" alt="Trabajo en equipo" style="height: 32px; width: auto;">
+          <img src="https://img.icons8.com/color/32/000000/teamwork.png" alt="Trabajo en equipo" style="height: 32px; ">
         </div>
         <span style="font-size: 20px; display: flex; align-items: center; height: 32px;">Me gusta trabajar en equipo</span>
       </li>
       <li style="display: flex; align-items: center; margin-bottom: 10px;">
         <div style="flex-shrink: 0; margin-right: 15px; display: flex; align-items: center;">
-          <img src="https://img.icons8.com/color/32/000000/handshake.png" alt="Cooperación" style="height: 32px; width: auto;">
+          <img src="https://img.icons8.com/color/32/000000/handshake.png" alt="Cooperación" style="height: 32px;">
         </div>
         <span style="font-size: 20px; display: flex; align-items: center; height: 32px;">Siempre estoy dispuesto a cooperar con otros miembros del equipo</span>
       </li>
