@@ -69,7 +69,7 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Griezman2003?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 - [GitHub](https://github.com/Griezman2003?tab=repositories) :octocat:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/) :linkedin:
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/) :link:
 
 
 
