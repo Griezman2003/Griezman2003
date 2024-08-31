@@ -14,7 +14,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
       </li>
       <li style="display: flex; align-items: flex-end; margin-bottom: 10px; height: 100px;">
         <img src="https://img.icons8.com/color/32/000000/teamwork.png" alt="Trabajo en equipo" style="margin-right: 15px;">
-        <span style="font-size: 20px; display: flex; align-items: center; height: 100%; border: 1px solid red;">Me gusta trabajar en equipo</span>
+        <span style="font-size: 20px; display: flex; align-items: start; height: 100%; border: 1px solid red;">Me gusta trabajar en equipo</span>
       </li>
       <li style="display: flex; align-items: flex-end; margin-bottom: 10px; height: 100px;">
         <img src="https://img.icons8.com/color/32/000000/handshake.png" alt="Cooperación" style="margin-right: 15px;">
