@@ -4,24 +4,24 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
 
 # Sobre mí
 
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; background-color: #f4f4f4; border-radius: 10px;">
+<div style="display: flex; align-items: flex-end; justify-content: space-between; padding: 20px; background-color: #f4f4f4; border-radius: 10px;">
   <div style="flex: 1;">
     <ul style="list-style-type: none; padding: 0; margin: 0;">
-      <li style="display: flex; align-items: center; margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/32/000000/book.png" alt="Autodidacta" style="margin-right: 15px; vertical-align: middle;">
-        <span style="font-size: 20px; text-align: left; line-height: 32px;">Soy autodidacta</span>
+      <li style="display: flex; align-items: flex-end; margin-bottom: 10px;">
+        <img src="https://img.icons8.com/color/32/000000/book.png" alt="Autodidacta" style="margin-right: 15px;">
+        <span style="font-size: 20px;">Soy autodidacta</span>
       </li>
-      <li style="display: flex; align-items: center; margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/32/000000/teamwork.png" alt="Trabajo en equipo" style="margin-right: 15px; vertical-align: middle;">
-        <span style="font-size: 20px; text-align: left; line-height: 32px;">Me gusta trabajar en equipo</span>
+      <li style="display: flex; align-items: flex-end; margin-bottom: 10px;">
+        <img src="https://img.icons8.com/color/32/000000/teamwork.png" alt="Trabajo en equipo" style="margin-right: 15px;">
+        <span style="font-size: 20px;">Me gusta trabajar en equipo</span>
       </li>
-      <li style="display: flex; align-items: center; margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/32/000000/handshake.png" alt="Cooperación" style="margin-right: 15px; vertical-align: middle;">
-        <span style="font-size: 20px; text-align: left; line-height: 32px;">Siempre estoy dispuesto a cooperar con otros miembros del equipo</span>
+      <li style="display: flex; align-items: flex-end; margin-bottom: 10px;">
+        <img src="https://img.icons8.com/color/32/000000/handshake.png" alt="Cooperación" style="margin-right: 15px;">
+        <span style="font-size: 20px;">Siempre estoy dispuesto a cooperar con otros miembros del equipo</span>
       </li>
-      <li style="display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/32/000000/telescope.png" alt="Portafolio personal" style="margin-right: 15px; vertical-align: middle;">
-        <span style="font-size: 20px; text-align: left; line-height: 32px;">Actualmente estoy trabajando en mi portafolio personal</span>
+      <li style="display: flex; align-items: flex-end;">
+        <img src="https://img.icons8.com/color/32/000000/telescope.png" alt="Portafolio personal" style="margin-right: 15px;">
+        <span style="font-size: 20px;">Actualmente estoy trabajando en mi portafolio personal</span>
       </li>
     </ul>
   </div>
