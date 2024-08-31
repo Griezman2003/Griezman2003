@@ -9,6 +9,10 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
 ![Teamwork](https://img.shields.io/badge/Teamwork-4a90e2?style=flat&logo=users&logoColor=ffffff)
 ![Cooperation](https://img.shields.io/badge/Cooperation-4a90e2?style=flat&logo=handshake&logoColor=ffffff)
 ![Personal portfolio](https://img.shields.io/badge/Personal%20portfolio-4a90e2?style=flat&logo=telescope&logoColor=ffffff)
+- 📚 **I am self-taught**
+- 🤝 **I like to work in a team**
+- 🤝 **I am always willing to cooperate with other team members**
+- 🔭 **I am currently working on my personal portfolio**
 
 # "Languages and Frameworks."
 
