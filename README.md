@@ -21,10 +21,23 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
 # Habilidades
 
 <div style="display: flex; align-items: center;">
-  <img src="https://www.php.net/manual/es/images/c0d23d2d6769e53e24a1b3136c064577-php_logo.png" alt="PHP" width="100">
-  <img src="https://w7.pngwing.com/pngs/168/618/png-transparent-responsive-web-design-web-development-bootstrap-cascading-style-sheets-web-browser-world-wide-web-purple-web-design-violet.png" alt="Bootstrap" width="100" height="50">
-  <img src="https://media.licdn.com/dms/image/D4E12AQFfe1nZbaWdMw/article-cover_image-shrink_720_1280/0/1698604163003?e=2147483647&v=beta&t=rtD52hfy37nFVmc4_MXfnflV6C-ke773W70SYJLoWRc" alt="JavaScript" width="100" ">
-  <img src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png" alt="HTML" width="100" height="45">
+  <!-- HTML5 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+  
+  <!-- Bootstrap -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+  
+  <!-- JavaScript -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+  
+  <!-- CSS3 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+  
+  <!-- Tailwind CSS -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+  
+  <!-- React Native -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
 </div>
 
 
