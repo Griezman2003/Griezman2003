@@ -4,19 +4,28 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
 
 # Sobre mí
 
-<div style="display: flex; align-items: center; justify-content: end">
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px; background-color: #f4f4f4; border-radius: 10px;">
   <div style="flex: 1;">
-    <ul>
-      <li>📚 Soy autodidacta</li>
-      <li>🤝 Me gusta trabajar en equipo</li>
-      <li>🤝 Siempre estoy dispuesto a cooperar con otros miembros del equipo</li>
-      <li>🔭 Actualmente estoy trabajando en mi portafolio personal</li>
+    <ul style="list-style: none; padding: 0;">
+      <li style="margin-bottom: 10px;">
+        <img src="https://img.icons8.com/color/48/000000/book.png" alt="Autodidacta" style="vertical-align: middle; margin-right: 10px;"> Soy autodidacta
+      </li>
+      <li style="margin-bottom: 10px;">
+        <img src="https://img.icons8.com/color/48/000000/teamwork.png" alt="Trabajo en equipo" style="vertical-align: middle; margin-right: 10px;"> Me gusta trabajar en equipo
+      </li>
+      <li style="margin-bottom: 10px;">
+        <img src="https://img.icons8.com/color/48/000000/handshake.png" alt="Cooperación" style="vertical-align: middle; margin-right: 10px;"> Siempre estoy dispuesto a cooperar con otros miembros del equipo
+      </li>
+      <li>
+        <img src="https://img.icons8.com/color/48/000000/telescope.png" alt="Portafolio personal" style="vertical-align: middle; margin-right: 10px;"> Actualmente estoy trabajando en mi portafolio personal
+      </li>
     </ul>
   </div>
-<div style="flex: 1; justify-content: end;">
-    <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Github" width="200" style="border-radius: 8px;">
+  <div style="flex: 1; text-align: right;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Github" width="150" style="border-radius: 8px;">
+  </div>
 </div>
-</div>
+
 
 # Habilidades
 
