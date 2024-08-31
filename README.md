@@ -53,8 +53,11 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
 
 # Lenguage de Backend
 <div style="display: flex; align-items: center;">
- <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_7_logo.png" alt="PHP" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+  <!-- PHP -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/PHP_logo.svg" alt="PHP" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
   <!-- Arduino -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Arduino_Logo.svg" alt="Arduino" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Arduino_Logo.svg" alt="Arduino" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
 </div>
+
+
 
