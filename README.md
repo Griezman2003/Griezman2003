@@ -71,7 +71,7 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
   <ul style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 10px;">
       <a href="https://github.com/yourusername" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #000;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="24" height="24" style="margin-right: 10px;">
+         <img src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" alt="php" width="100" height="100" style="object-fit: contain;">
         GitHub
       </a>
     </li>
