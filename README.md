@@ -22,7 +22,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
 
 <div style="display: flex; align-items: center;">
   <img src="https://www.php.net/manual/es/images/c0d23d2d6769e53e24a1b3136c064577-php_logo.png" alt="PHP" width="100" style="margin-right: 10px;">
-  <img src="https://soyhorizonte.com/wp-content/uploads/2020/08/bootstrap-stack.png" alt="Bootstrap" width="100">
+  <img src="https://soyhorizonte.com/wp-content/uploads/2020/08/bootstrap-stack.png" alt="Bootstrap" width="100" heigth:50>
   <img src="https://media.licdn.com/dms/image/D4E12AQFfe1nZbaWdMw/article-cover_image-shrink_720_1280/0/1698604163003?e=2147483647&v=beta&t=rtD52hfy37nFVmc4_MXfnflV6C-ke773W70SYJLoWRc" alt="javascript" width="100" style="margin-right: 10px;">
 </div>
 
