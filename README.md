@@ -8,21 +8,21 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
   <div style="flex: 1;">
     <ul style="list-style: none; padding: 0;">
       <li style="margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/book.png" alt="Autodidacta" style="vertical-align: middle; margin-right: 10px;"> Soy autodidacta
+        <img src="https://img.icons8.com/color/24/000000/book.png" alt="Autodidacta" style="vertical-align: middle; margin-right: 10px;"> Soy autodidacta
       </li>
       <li style="margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/teamwork.png" alt="Trabajo en equipo" style="vertical-align: middle; margin-right: 10px;"> Me gusta trabajar en equipo
+        <img src="https://img.icons8.com/color/24/000000/teamwork.png" alt="Trabajo en equipo" style="vertical-align: middle; margin-right: 10px;"> Me gusta trabajar en equipo
       </li>
       <li style="margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/handshake.png" alt="Cooperación" style="vertical-align: middle; margin-right: 10px;"> Siempre estoy dispuesto a cooperar con otros miembros del equipo
+        <img src="https://img.icons8.com/color/24/000000/handshake.png" alt="Cooperación" style="vertical-align: middle; margin-right: 10px;"> Siempre estoy dispuesto a cooperar con otros miembros del equipo
       </li>
       <li>
-        <img src="https://img.icons8.com/color/48/000000/telescope.png" alt="Portafolio personal" style="vertical-align: middle; margin-right: 10px;"> Actualmente estoy trabajando en mi portafolio personal
+        <img src="https://img.icons8.com/color/24/000000/telescope.png" alt="Portafolio personal" style="vertical-align: middle; margin-right: 10px;"> Actualmente estoy trabajando en mi portafolio personal
       </li>
     </ul>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Github" width="150" style="border-radius: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="150" style="border-radius: 8px;">
   </div>
 </div>
 
