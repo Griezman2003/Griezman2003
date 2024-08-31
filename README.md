@@ -4,7 +4,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
 
 # Sobre mí
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: end">
   <div style="flex: 1;">
     <ul>
       <li>📚 Soy autodidacta</li>
