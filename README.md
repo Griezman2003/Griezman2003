@@ -8,20 +8,20 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
   <div style="flex: 1;">
     <ul style="list-style-type: none; padding: 0; margin: 0;">
       <li style="display: flex; align-items: center; margin-bottom: 10px;">
-        <span style="font-size: 18px; flex: 1;">Soy autodidacta</span>
-        <img src="https://img.icons8.com/color/24/000000/book.png" alt="Autodidacta" style="margin-left: 10px;">
+        <img src="https://img.icons8.com/color/32/000000/book.png" alt="Autodidacta" style="margin-right: 15px;"> 
+        <span style="font-size: 20px; flex: 1;">Soy autodidacta</span>
       </li>
       <li style="display: flex; align-items: center; margin-bottom: 10px;">
-        <span style="font-size: 18px; flex: 1;">Me gusta trabajar en equipo</span>
-        <img src="https://img.icons8.com/color/24/000000/teamwork.png" alt="Trabajo en equipo" style="margin-left: 10px;">
+        <img src="https://img.icons8.com/color/32/000000/teamwork.png" alt="Trabajo en equipo" style="margin-right: 15px;"> 
+        <span style="font-size: 20px; flex: 1;">Me gusta trabajar en equipo</span>
       </li>
       <li style="display: flex; align-items: center; margin-bottom: 10px;">
-        <span style="font-size: 18px; flex: 1;">Siempre estoy dispuesto a cooperar con otros miembros del equipo</span>
-        <img src="https://img.icons8.com/color/24/000000/handshake.png" alt="Cooperación" style="margin-left: 10px;">
+        <img src="https://img.icons8.com/color/32/000000/handshake.png" alt="Cooperación" style="margin-right: 15px;"> 
+        <span style="font-size: 20px; flex: 1;">Siempre estoy dispuesto a cooperar con otros miembros del equipo</span>
       </li>
       <li style="display: flex; align-items: center;">
-        <span style="font-size: 18px; flex: 1;">Actualmente estoy trabajando en mi portafolio personal</span>
-        <img src="https://img.icons8.com/color/24/000000/telescope.png" alt="Portafolio personal" style="margin-left: 10px;">
+        <img src="https://img.icons8.com/color/32/000000/telescope.png" alt="Portafolio personal" style="margin-right: 15px;"> 
+        <span style="font-size: 20px; flex: 1;">Actualmente estoy trabajando en mi portafolio personal</span>
       </li>
     </ul>
   </div>
@@ -29,6 +29,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="150" style="border-radius: 8px;">
   </div>
 </div>
+
 
 
 
