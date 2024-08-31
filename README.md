@@ -3,7 +3,7 @@
 Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web development. I am very interested in front-end technology, and although I am currently just a university student, I am a front-end developer with a lot of enthusiasm and eagerness to keep learning every day. Thank you for visiting my profile! 😄
 
 
-## 
+# "About Me"
 
 ![Self-taught](https://img.shields.io/badge/Self--taught-4a90e2?style=flat&logo=book&logoColor=ffffff)
 ![Teamwork](https://img.shields.io/badge/Teamwork-4a90e2?style=flat&logo=users&logoColor=ffffff)
