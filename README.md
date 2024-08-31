@@ -7,7 +7,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 20px; background-color: #f4f4f4; border-radius: 10px; max-width: 80%; margin: 0 auto;">
   <div style="flex: 1; max-width: 50%;">
     <ul style="list-style-type: none; padding: 0; margin: 0;">
-      <li style="display: flex; align-items: flex-end; margin-bottom: 10px; height: 100px;">
+      <li style="display: flex; align="center" margin-bottom: 10px; height: 100px;">
         <img src="https://img.icons8.com/color/32/000000/book.png" alt="Autodidacta" style="margin-right: 15px; height: 32px; width: auto;">
         <span style="font-size: 20px; display: flex; align-items: center; height: 100%;">Soy autodidacta</span>
       </li>
