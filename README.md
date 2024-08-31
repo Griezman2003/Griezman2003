@@ -51,4 +51,10 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
 </div>
 
+# Lenguage de Backend
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_7_logo.png" alt="PHP" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+
+  <!-- Arduino -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Arduino_Logo.svg" alt="Arduino" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+
 
