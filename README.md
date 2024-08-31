@@ -69,11 +69,22 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
 # Connect with Me
 <div style="padding: 20px; background-color: #eaf1f7; border-radius: 10px; max-width: 80%; margin: 20px auto;">
   <ul style="list-style-type: none; padding: 0;">
-    <li><a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
-    <li><a href="https://www.linkedin.com/in/yourprofile/" target="_blank">LinkedIn</a></li>
+    <li style="margin-bottom: 10px;">
+      <a href="https://github.com/yourusername" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="24" height="24" style="margin-right: 10px;">
+        GitHub
+      </a>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <a href="https://www.linkedin.com/in/yourprofile/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #0e76a8;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="24" height="24" style="margin-right: 10px;">
+        LinkedIn
+      </a>
+    </li>
     <!-- Add more social media links -->
   </ul>
 </div>
+
 
 
 
