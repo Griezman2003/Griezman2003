@@ -3,29 +3,12 @@
 Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web development. I am very interested in front-end technology, and although I am currently just a university student, I am a front-end developer with a lot of enthusiasm and eagerness to keep learning every day. Thank you for visiting my profile! 😄
 
 
-# Sobre mí 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 20px; background-color: #f4f4f4; border-radius: 10px; max-width: 80%; margin: 0 auto;">
-  <div style="flex: 1; max-width: 50%;">
-    <ul style="list-style-type: none; padding: 0; margin: 0;">
-      <li style="display: flex; align-items: center; margin-bottom: 10px; height: 100px;">
-        <img src="https://img.icons8.com/color/24/000000/book.png" alt="Self-taught" style="margin-right: 15px; height: 24px; width: auto; object-fit: contain;">
-        <span style="font-size: 18px; flex: 1; display: flex; align-items: center;">I am self-taught</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 10px; height: 100px;">
-        <img src="https://img.icons8.com/color/24/000000/teamwork.png" alt="Teamwork" style="margin-right: 15px; height: 24px; width: auto;">
-        <span style="font-size: 18px; flex: 1; display: flex; align-items: center;">I like to work in a team</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 10px; height: 100px;">
-        <img src="https://img.icons8.com/color/24/000000/handshake.png" alt="Cooperation" style="margin-right: 15px; height: 24px; width: auto;">
-        <span style="font-size: 18px; flex: 1; display: flex; align-items: center;">I am always willing to cooperate with other team members</span>
-      </li>
-      <li style="display: flex; align-items: center; height: 100px;">
-        <img src="https://img.icons8.com/color/24/000000/telescope.png" alt="Personal portfolio" style="margin-right: 15px; height: 24px; width: auto;">
-        <span style="font-size: 18px;">I am currently working on my personal portfolio</span>
-      </li>
-    </ul>
-  </div>
-</div>
+## Sobre mí
+
+![Self-taught](https://img.shields.io/badge/Self--taught-4a90e2?style=flat&logo=book&logoColor=ffffff)
+![Teamwork](https://img.shields.io/badge/Teamwork-4a90e2?style=flat&logo=users&logoColor=ffffff)
+![Cooperation](https://img.shields.io/badge/Cooperation-4a90e2?style=flat&logo=handshake&logoColor=ffffff)
+![Personal portfolio](https://img.shields.io/badge/Personal%20portfolio-4a90e2?style=flat&logo=telescope&logoColor=ffffff)
 
 # "Languages and Frameworks."
 
