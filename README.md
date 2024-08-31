@@ -4,7 +4,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
 
 # Sobre mí
 
-<div style="position: relative;display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <ul>
       <li>📚 Soy autodidacta</li>
@@ -13,7 +13,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
       <li>🔭 Actualmente estoy trabajando en mi portafolio personal</li>
     </ul>
   </div>
-<div style="position: absolute; top: 0; right: 50;">
+<div>
     <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Github" width="250" style="border-radius: 8px;">
 </div>
 </div>
