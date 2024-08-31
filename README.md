@@ -49,10 +49,10 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
     <!-- Laravel -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
 </div>
-  <div style="display: flex; align-items: center;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/MySQL_logo.png" alt="MySQL" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+<div style="display: flex; align-items: center;">
+ <img src="https://cdn-icons-png.flaticon.com/512/2818/2818474.png" alt="MySQL" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
   
   <!-- App Inventor -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/App_Inventor_Logo.png" alt="App Inventor" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
-  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/App_Inventor_Logo.png" alt="App Inventor" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+</div>
 
