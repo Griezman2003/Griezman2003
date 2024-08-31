@@ -66,29 +66,17 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
 
 </div>
 
+![Communication](https://img.shields.io/badge/Strong%20Communication-4a90e2?style=flat&logo=talk&logoColor=ffffff)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4a90e2?style=flat&logo=lightbulb&logoColor=ffffff)
+![Adaptability](https://img.shields.io/badge/Adaptability-4a90e2?style=flat&logo=sync&logoColor=ffffff)
+![Leadership](https://img.shields.io/badge/Leadership-4a90e2?style=flat&logo=users&logoColor=ffffff)
+
 # Soft Skills
-<div style="padding: 20px; background-color: #f9f9f9; border-radius: 10px; max-width: 80%; margin: 20px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h2 style="margin-bottom: 15px;">Soft Skills</h2>
-  <ul style="list-style-type: none; padding: 0; margin: 0;">
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://img.icons8.com/material-outlined/24/000000/communication.png" alt="Communication" style="margin-right: 15px; height: 24px; width: 24px;">
-      <span>Strong communication skills</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://img.icons8.com/material-outlined/24/000000/problem.png" alt="Problem Solving" style="margin-right: 15px; height: 24px; width: 24px;">
-      <span>Problem-solving abilities</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://img.icons8.com/material-outlined/24/000000/learning.png" alt="Adaptability" style="margin-right: 15px; height: 24px; width: 24px;">
-      <span>Adaptability and quick learning</span>
-    </li>
-    <li style="display: flex; align-items: center;">
-      <img src="https://img.icons8.com/material-outlined/24/000000/leadership.png" alt="Leadership" style="margin-right: 15px; height: 24px; width: 24px;">
-      <span>Leadership and teamwork</span>
-    </li>
-    <!-- Add more skills as needed -->
-  </ul>
-</div>
+<span style="font-size:24px; color:#4a90e2;">🔊</span> **Strong Communication Skills**  
+<span style="font-size:24px; color:#4a90e2;">💡</span> **Problem-Solving Abilities**  
+<span style="font-size:24px; color:#4a90e2;">🔄</span> **Adaptability and Quick Learning**  
+<span style="font-size:24px; color:#4a90e2;">👥</span> **Leadership and Teamwork**
+
 
 
 # Connect with Me
