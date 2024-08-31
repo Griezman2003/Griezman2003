@@ -70,7 +70,7 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
 ![Communication](https://img.shields.io/badge/Strong%20Communication-4a90e2?style=flat&logo=talk&logoColor=ffffff)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4a90e2?style=flat&logo=lightbulb&logoColor=ffffff)
 ![Adaptability](https://img.shields.io/badge/Adaptability-4a90e2?style=flat&logo=sync&logoColor=ffffff)
-![Leadership](https://img.shields.io/badge/Leadership-4a90e2?style=flat&logo=users&logoColor=ffffff)
+![Leadership](https://img.shields.io/badge/Leadership-4a90e2?style=flat&logo=users&logoColor=ffffff) <br>
 <span style="font-size:24px; color:#4a90e2;">🔊</span> **Strong Communication Skills**  
 <span style="font-size:24px; color:#4a90e2;">💡</span> **Problem-Solving Abilities**  
 <span style="font-size:24px; color:#4a90e2;">🔄</span> **Adaptability and Quick Learning**  
