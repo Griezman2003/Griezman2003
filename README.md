@@ -49,7 +49,8 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
     <!-- Laravel -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
      <!-- php-->
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" alt="PHP" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/stephane127/monochrome-icons/master/php.svg" alt="PHP" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+
 
 
 </div>
