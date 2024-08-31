@@ -13,7 +13,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
       <li>🔭 Actualmente estoy trabajando en mi portafolio personal</li>
     </ul>
   </div>
-<div style="flex: 1; text-align: right;">
+<div style="flex: 1; justify-content: end;">
     <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Github" width="200" style="border-radius: 8px;">
 </div>
 </div>
