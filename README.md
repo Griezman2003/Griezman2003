@@ -25,8 +25,6 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="150" style="border-radius: 8px;">
   </div>
 </div>
-
-
 # Habilidades
 
 <div style="display: flex; align-items: center;">
