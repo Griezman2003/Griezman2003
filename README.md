@@ -18,6 +18,6 @@ de front end, pero por ahora solo soy estudiante universitario pero con muchas g
 # Habilidades
 
 ![PHP](https://www.php.net/manual/es/images/c0d23d2d6769e53e24a1b3136c064577-php_logo.png)
-![bootstrap](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVp3kSnyUDGLsQ3nnjkWMAIjR7HYbB0UfFzA&s)
+![bootstrap](https://bootscore.me/wp-content/uploads/2023/06/bootscore-5.3.0.webp)
 
 *Procesando...*
