@@ -77,7 +77,3 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
 
 
 
-
-
-
-
