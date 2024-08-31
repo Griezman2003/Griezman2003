@@ -55,9 +55,6 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
      <!-- php-->
   <img src="https://holatelcel.com/wp-content/uploads/2016/09/Webysther_20160423_-_Elephpant.svg_.png" alt="php" width="100" height="100" style="object-fit: contain;">
 
-
-
-
 </div>
 
 # "Extra"
@@ -65,6 +62,16 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
   <!-- Linux -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="100" height="100" style="object-fit: contain; margin-right: 10px;"> 
 
+</div>
+
+# Connect with Me
+<div style="padding: 20px; background-color: #eaf1f7; border-radius: 10px; max-width: 80%; margin: 20px auto;">
+  <h2>Connect with Me</h2>
+  <ul style="list-style-type: none; padding: 0;">
+    <li><a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/yourprofile/" target="_blank">LinkedIn</a></li>
+    <!-- Add more social media links -->
+  </ul>
 </div>
 
 
