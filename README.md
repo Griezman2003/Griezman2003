@@ -51,10 +51,8 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
      <!-- php-->
   <img src="https://raw.githubusercontent.com/stephane127/monochrome-icons/master/php.svg" alt="PHP" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
 
-
-
 </div>
-
+# Extra
 <div style="display: flex; align-items: center;">
   <!-- Linux -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
