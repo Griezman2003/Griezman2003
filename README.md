@@ -70,8 +70,7 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
 <div style="padding: 20px; background-color: #eaf1f7; border-radius: 10px; max-width: 80%; margin: 20px auto;">
   <ul style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 10px;">
-      <a href="https://github.com/yourusername" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #000;">
-         <img src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" alt="php" width="100" height="100" style="object-fit: contain;">
+      <a href="https://github.com/Griezman2003" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #000;">
         GitHub
       </a>
     </li>
