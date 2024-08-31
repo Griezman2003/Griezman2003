@@ -50,6 +50,6 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
   <!-- React Native -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
     <!-- Laravel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Laravel_logo.svg" alt="Laravel" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/laravel/laravel.com/master/public/images/laravel-logo.png" alt="Laravel" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
 </div>
 
