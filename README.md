@@ -52,11 +52,12 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
 
 <div style="display: flex; align-items: center;">
   <!-- MySQL -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/MySQL_logo.svg" alt="MySQL" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
   
   <!-- App Inventor -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/App_Inventor_logo.svg" alt="App Inventor" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/App_Inventor_logo.svg/1200px-App_Inventor_logo.svg.png" alt="App Inventor" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
 </div>
+
 
 
 
