@@ -64,9 +64,9 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
 <span style="font-size:24px; color:#4a90e2;">👥</span> **Leadership and Teamwork**
 
 # My Projects
-- **Template youtube Api**: Brief description of what you did and technologies used. [Api](https://github.com/Griezman2003/youtube) ![Technology](https://img.shields.io/badge/Technology-Color?style=flat&logo=icon&logoColor=white)
+- **Template youtube Api**: Bootstrap and javascript. [Api](https://github.com/Griezman2003/youtube) ![Technology](https://img.shields.io/badge/Technology-Color?style=flat&logo=icon&logoColor=white)
 
-- **Beta**: Brief description of what you did and technologies used. [Beta](URL) ![Technology](https://img.shields.io/badge/Technology-Color?style=flat&logo=icon&logoColor=white)
+- **Beta**: Description beta. [Beta](URL) ![Technology](https://img.shields.io/badge/Technology-Color?style=flat&logo=icon&logoColor=white)
 
 
 # Connect with Me
