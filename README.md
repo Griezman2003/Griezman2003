@@ -3,32 +3,32 @@
 Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área de desarrollo web. Me gusta mucho lo relacionado con el front-end, aunque por ahora solo soy estudiante universitario, pero con muchas ganas y ánimo de seguir aprendiendo cada día. ¡Gracias por visitar mi perfil! 😄
 
 # Sobre mí
-<div style="display: flex; align-items: flex-end; justify-content: space-between; padding: 20px; background-color: #f4f4f4; border-radius: 10px;">
+
+<div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 20px; background-color: #f4f4f4; border-radius: 10px; max-width: 80%; margin: 0 auto;">
   <div style="flex: 1; max-width: 50%;">
     <ul style="list-style-type: none; padding: 0; margin: 0;">
       <li style="display: flex; align-items: flex-end; margin-bottom: 10px; height: 100px;">
-        <img src="https://img.icons8.com/color/32/000000/book.png" alt="Autodidacta" style="margin-right: 15px;">
-        <span style="font-size: 20px; display: flex; align-items: center; height: 100%; border: 1px solid red;">Soy autodidacta</span>
+        <img src="https://img.icons8.com/color/32/000000/book.png" alt="Autodidacta" style="margin-right: 15px; height: 32px; width: auto;">
+        <span style="font-size: 20px; display: flex; align-items: center; height: 100%;">Soy autodidacta</span>
       </li>
       <li style="display: flex; align-items: flex-end; margin-bottom: 10px; height: 100px;">
-        <img src="https://img.icons8.com/color/32/000000/teamwork.png" alt="Trabajo en equipo" style="margin-right: 15px;">
-        <span style="font-size: 20px; display: flex; align-items: center; height: 100%; border: 1px solid red;">Me gusta trabajar en equipo</span>
+        <img src="https://img.icons8.com/color/32/000000/teamwork.png" alt="Trabajo en equipo" style="margin-right: 15px; height: 32px; width: auto;">
+        <span style="font-size: 20px; display: flex; align-items: center; height: 100%;">Me gusta trabajar en equipo</span>
       </li>
       <li style="display: flex; align-items: flex-end; margin-bottom: 10px; height: 100px;">
-        <img src="https://img.icons8.com/color/32/000000/handshake.png" alt="Cooperación" style="margin-right: 15px;">
-        <span style="font-size: 20px; display: flex; align-items: center; height: 100%; border: 1px solid red;">Siempre estoy dispuesto a cooperar con otros miembros del equipo</span>
+        <img src="https://img.icons8.com/color/32/000000/handshake.png" alt="Cooperación" style="margin-right: 15px; height: 32px; width: auto;">
+        <span style="font-size: 20px; display: flex; align-items: center; height: 100%;">Siempre estoy dispuesto a cooperar con otros miembros del equipo</span>
       </li>
       <li style="display: flex; align-items: flex-end; height: 100px;">
-        <img src="https://img.icons8.com/color/32/000000/telescope.png" alt="Portafolio personal" style="margin-right: 15px;">
-        <span style="font-size: 20px; display: flex; align-items: center; height: 100%; border: 1px solid red;">Actualmente estoy trabajando en mi portafolio personal</span>
+        <img src="https://img.icons8.com/color/32/000000/telescope.png" alt="Portafolio personal" style="margin-right: 15px; height: 32px; width: auto;">
+        <span style="font-size: 20px; display: flex; align-items: center; height: 100%;">Actualmente estoy trabajando en mi portafolio personal</span>
       </li>
     </ul>
   </div>
-  <div style="flex: 1; text-align: right;">
+  <div style="flex: 1; max-width: 50%; text-align: right;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="150" style="border-radius: 8px;">
   </div>
 </div>
-
 
 
 # Habilidades
