@@ -51,7 +51,7 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
      <!-- php-->
      
-  ![php](https://www.php.net/images/logos/php-logo.svg)
+  ![php](https://holatelcel.com/wp-content/uploads/2016/09/Webysther_20160423_-_Elephpant.svg_.png)
 
 
 
