@@ -66,6 +66,18 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
 
 </div>
 
+# Soft Skills
+<div style="padding: 20px; background-color: #f9f9f9; border-radius: 10px; max-width: 80%; margin: 20px auto;">
+  <h2>Soft Skills</h2>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>Strong communication skills</li>
+    <li>Problem-solving abilities</li>
+    <li>Adaptability and quick learning</li>
+    <li>Leadership and teamwork</li>
+    <!-- Add more skills as needed -->
+  </ul>
+</div>
+
 # Connect with Me
 <div style="padding: 20px; background-color: #eaf1f7; border-radius: 10px; max-width: 80%; margin: 20px auto;">
   <ul style="list-style-type: none; padding: 0;">
