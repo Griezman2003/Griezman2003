@@ -76,8 +76,7 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
     </li>
     <li style="margin-bottom: 10px;">
       <a href="https://www.linkedin.com/in/yourprofile/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #0e76a8;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="24" height="24" style="margin-right: 10px;">
-        LinkedIn
+        LinkedIn in proccesing....
       </a>
     </li>
     <!-- Add more social media links -->
