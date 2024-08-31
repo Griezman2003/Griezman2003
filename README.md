@@ -1,4 +1,4 @@
-# Hello <Developers/>
+# Hello Developers
 
 Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web development. I am very interested in front-end technologies, although for now I am just a university student, but with a lot of enthusiasm and eagerness to keep learning every day. Thank you for visiting my profile! 😄
 
