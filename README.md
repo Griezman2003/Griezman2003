@@ -2,7 +2,7 @@
 
 Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área de desarrollo web. Me gusta mucho lo relacionado con el front-end, aunque por ahora solo soy estudiante universitario, pero con muchas ganas y ánimo de seguir aprendiendo cada día. ¡Gracias por visitar mi perfil! 😄
 
-# Sobre mí [!Sobre mi]
+# Sobre mí >[!Sobre mi]
 <div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 20px; background-color: #f4f4f4; border-radius: 10px; max-width: 80%; margin: 0 auto;">
   <div style="flex: 1; max-width: 50%;">
     <ul style="list-style-type: none; padding: 0; margin: 0;">
