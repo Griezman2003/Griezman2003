@@ -55,7 +55,8 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
   
   <!-- MariaDB -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MariaDB_Logo.svg/1280px-MariaDB_Logo.svg.png" alt="MariaDB" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MariaDB_Logo.svg/1200px-MariaDB_Logo.svg.png" alt="MariaDB" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+
 </div>
 
 
