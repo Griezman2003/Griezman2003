@@ -24,7 +24,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
       </li>
     </ul>
   </div>
-  <div style="flex: 1; max-width: 50%; text-align: right;">
+  <div style="flex: 1; max-width: 10%; text-align: right;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="150" style="border-radius: 8px;">
   </div>
 </div>
