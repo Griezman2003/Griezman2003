@@ -1,6 +1,6 @@
-# Hola <Desarrolladores/>
+# Hello <Developers/>
 
-Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área de desarrollo web. Me gusta mucho lo relacionado con el front-end, aunque por ahora solo soy estudiante universitario, pero con muchas ganas y ánimo de seguir aprendiendo cada día. ¡Gracias por visitar mi perfil! 😄
+Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web development. I am very interested in front-end technologies, although for now I am just a university student, but with a lot of enthusiasm and eagerness to keep learning every day. Thank you for visiting my profile! 😄
 
 # Sobre mí 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 20px; background-color: #f4f4f4; border-radius: 10px; max-width: 80%; margin: 0 auto;">
@@ -29,7 +29,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
 
 
 
-# Lenguajes y herramientas
+# "Languages and Frameworks."
 
 <div style="display: flex; align-items: center;">
   <!-- HTML5 -->
