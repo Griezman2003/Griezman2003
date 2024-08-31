@@ -4,24 +4,25 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
 
 # Sobre mí
 
+
 <div style="display: flex; align-items: flex-end; justify-content: space-between; padding: 20px; background-color: #f4f4f4; border-radius: 10px;">
   <div style="flex: 1;">
     <ul style="list-style-type: none; padding: 0; margin: 0;">
-      <li style="display: flex; align-items: flex-center; margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/32/000000/book.png" alt="Autodidacta" style="margin-right: 15px; margin-top: 300px;">
-        <span style="font-size: 20px;">Soy autodidacta</span>
+      <li style="display: flex; align-items: flex-end; margin-bottom: 10px; height: 100px;">
+        <img src="https://img.icons8.com/color/32/000000/book.png" alt="Autodidacta" style="margin-right: 15px;">
+        <span style="font-size: 20px; display: flex; align-items: center; height: 100%; border: 1px solid red;">Soy autodidacta</span>
       </li>
-      <li style="display: flex; align-items: flex-end; margin-bottom: 10px;">
+      <li style="display: flex; align-items: flex-end; margin-bottom: 10px; height: 100px;">
         <img src="https://img.icons8.com/color/32/000000/teamwork.png" alt="Trabajo en equipo" style="margin-right: 15px;">
-        <span style="font-size: 20px;">Me gusta trabajar en equipo</span>
+        <span style="font-size: 20px; display: flex; align-items: center; height: 100%; border: 1px solid red;">Me gusta trabajar en equipo</span>
       </li>
-      <li style="display: flex; align-items: flex-end; margin-bottom: 10px;">
+      <li style="display: flex; align-items: flex-end; margin-bottom: 10px; height: 100px;">
         <img src="https://img.icons8.com/color/32/000000/handshake.png" alt="Cooperación" style="margin-right: 15px;">
-        <span style="font-size: 20px;">Siempre estoy dispuesto a cooperar con otros miembros del equipo</span>
+        <span style="font-size: 20px; display: flex; align-items: center; height: 100%; border: 1px solid red;">Siempre estoy dispuesto a cooperar con otros miembros del equipo</span>
       </li>
-      <li style="display: flex; align-items: flex-end;">
+      <li style="display: flex; align-items: flex-end; height: 100px;">
         <img src="https://img.icons8.com/color/32/000000/telescope.png" alt="Portafolio personal" style="margin-right: 15px;">
-        <span style="font-size: 20px;">Actualmente estoy trabajando en mi portafolio personal</span>
+        <span style="font-size: 20px; display: flex; align-items: center; height: 100%; border: 1px solid red;">Actualmente estoy trabajando en mi portafolio personal</span>
       </li>
     </ul>
   </div>
@@ -29,12 +30,6 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="150" style="border-radius: 8px;">
   </div>
 </div>
-
-
-
-
-
-
 
 
 
