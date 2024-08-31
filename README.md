@@ -8,7 +8,8 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
   <div style="flex: 1;">
     <ul style="list-style-type: none; padding: 0; margin: 0;">
       <li style="display: flex; align-items: center; margin-bottom: 10px;">
-        <span style="font-size: 18px;"><img src="https://img.icons8.com/color/24/000000/book.png" alt="Autodidacta" style="margin-right: 10px; vertical-align: middle; margin-top: 100px;"> Soy autodidacta</span>
+        <img src="https://img.icons8.com/color/24/000000/book.png" alt="Autodidacta" style="margin-right: 10px; vertical-align: middle; margin-top: 100px;">
+        <span style="font-size: 18px;">Soy autodidacta</span>
       </li>
       <li style="display: flex; align-items: center; margin-bottom: 10px;">
         <img src="https://img.icons8.com/color/24/000000/teamwork.png" alt="Trabajo en equipo" style="margin-right: 10px; vertical-align: middle; margin-top: 5px;"> 
