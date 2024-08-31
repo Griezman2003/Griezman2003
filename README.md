@@ -67,16 +67,29 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
 </div>
 
 # Soft Skills
-<div style="padding: 20px; background-color: #f9f9f9; border-radius: 10px; max-width: 80%; margin: 20px auto;">
-  <h2>Soft Skills</h2>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>Strong communication skills</li>
-    <li>Problem-solving abilities</li>
-    <li>Adaptability and quick learning</li>
-    <li>Leadership and teamwork</li>
+<div style="padding: 20px; background-color: #f9f9f9; border-radius: 10px; max-width: 80%; margin: 20px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <h2 style="margin-bottom: 15px;">Soft Skills</h2>
+  <ul style="list-style-type: none; padding: 0; margin: 0;">
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://img.icons8.com/material-outlined/24/000000/communication.png" alt="Communication" style="margin-right: 15px; height: 24px; width: 24px;">
+      <span>Strong communication skills</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://img.icons8.com/material-outlined/24/000000/problem.png" alt="Problem Solving" style="margin-right: 15px; height: 24px; width: 24px;">
+      <span>Problem-solving abilities</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://img.icons8.com/material-outlined/24/000000/learning.png" alt="Adaptability" style="margin-right: 15px; height: 24px; width: 24px;">
+      <span>Adaptability and quick learning</span>
+    </li>
+    <li style="display: flex; align-items: center;">
+      <img src="https://img.icons8.com/material-outlined/24/000000/leadership.png" alt="Leadership" style="margin-right: 15px; height: 24px; width: 24px;">
+      <span>Leadership and teamwork</span>
+    </li>
     <!-- Add more skills as needed -->
   </ul>
 </div>
+
 
 # Connect with Me
 <div style="padding: 20px; background-color: #eaf1f7; border-radius: 10px; max-width: 80%; margin: 20px auto;">
