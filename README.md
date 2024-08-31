@@ -7,27 +7,24 @@ Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web 
   <div style="flex: 1; max-width: 50%;">
     <ul style="list-style-type: none; padding: 0; margin: 0;">
       <li style="display: flex; align-items: center; margin-bottom: 10px; height: 100px;">
-        <img src="https://img.icons8.com/color/24/000000/book.png" alt="Autodidacta" style="margin-right: 15px; height: 24px; width: auto; object-fit: contain;">
-        <span style="font-size: 18px; flex: 1; display: flex; align-items: center;">Soy autodidacta</span>
+        <img src="https://img.icons8.com/color/24/000000/book.png" alt="Self-taught" style="margin-right: 15px; height: 24px; width: auto; object-fit: contain;">
+        <span style="font-size: 18px; flex: 1; display: flex; align-items: center;">I am self-taught</span>
       </li>
       <li style="display: flex; align-items: center; margin-bottom: 10px; height: 100px;">
-        <img src="https://img.icons8.com/color/24/000000/teamwork.png" alt="Trabajo en equipo" style="margin-right: 15px; height: 24px; width: auto;">
-        <span style="font-size: 18px; flex: 1; display: flex; align-items: center;">Me gusta trabajar en equipo</span>
+        <img src="https://img.icons8.com/color/24/000000/teamwork.png" alt="Teamwork" style="margin-right: 15px; height: 24px; width: auto;">
+        <span style="font-size: 18px; flex: 1; display: flex; align-items: center;">I like to work in a team</span>
       </li>
       <li style="display: flex; align-items: center; margin-bottom: 10px; height: 100px;">
-        <img src="https://img.icons8.com/color/24/000000/handshake.png" alt="Cooperación" style="margin-right: 15px; height: 24px; width: auto;">
-        <span style="font-size: 18px; flex: 1; display: flex; align-items: center;">Siempre estoy dispuesto a cooperar con otros miembros del equipo</span>
+        <img src="https://img.icons8.com/color/24/000000/handshake.png" alt="Cooperation" style="margin-right: 15px; height: 24px; width: auto;">
+        <span style="font-size: 18px; flex: 1; display: flex; align-items: center;">I am always willing to cooperate with other team members</span>
       </li>
       <li style="display: flex; align-items: center; height: 100px;">
-        <img src="https://img.icons8.com/color/24/000000/telescope.png" alt="Portafolio personal" style="margin-right: 15px; height: 24px; width: auto;">
-        <span style="font-size: 18px;">Actualmente estoy trabajando en mi portafolio personal</span>
+        <img src="https://img.icons8.com/color/24/000000/telescope.png" alt="Personal portfolio" style="margin-right: 15px; height: 24px; width: auto;">
+        <span style="font-size: 18px;">I am currently working on my personal portfolio</span>
       </li>
     </ul>
   </div>
 </div>
-
-
-
 
 # "Languages and Frameworks."
 
