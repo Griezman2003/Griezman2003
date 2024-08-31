@@ -20,7 +20,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
       </li>
       <li style="display: flex; align-items: center; height: 100px;">
         <img src="https://img.icons8.com/color/32/000000/telescope.png" alt="Portafolio personal" style="margin-right: 15px; height: 32px; width: auto;">
-        <span style="font-size: 20px; flex: 1; margin-bottom: 15px;">Actualmente estoy trabajando en mi portafolio personal</span>
+        <span style="font-size: 20px; margin-bottom: 100px;">Actualmente estoy trabajando en mi portafolio personal</span>
       </li>
     </ul>
   </div>
