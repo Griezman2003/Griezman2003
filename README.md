@@ -29,7 +29,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
 
 
 
-# Habilidades
+# Lenguajes y herramientas
 
 <div style="display: flex; align-items: center;">
   <!-- HTML5 -->
@@ -49,15 +49,7 @@ Hola! Mi nombre es Gamaliel Garcia, estoy adquiriendo conocimientos en el área 
   
   <!-- React Native -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+    <!-- Laravel -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Laravel_logo.svg" alt="Laravel" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
 </div>
-
-# Lenguage de Backend
-<div style="display: flex; align-items: center;">
-  <!-- PHP -->
-   <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
-  <!-- Arduino -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Arduino_Logo.svg" alt="Arduino" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
-</div>
-
-
 
