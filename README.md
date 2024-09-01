@@ -1,6 +1,6 @@
 # Hello Developers
 
-Hello! My name is Gamaliel Garcia. I am acquiring knowledge in the field of web development. I am very interested in front-end technology, and although I am currently just a university student, I am a front-end developer with a lot of enthusiasm and eagerness to keep learning every day. Thank you for visiting my profile! 😄
+Hello! My name is Gamaliel Garcia Gomez. I am acquiring knowledge in the field of web development. I am very interested in front-end technology, and although I am currently just a university student, I am a front-end developer with a lot of enthusiasm and eagerness to keep learning every day. Thank you for visiting my profile! 😄
 
 
 # "About Me"
