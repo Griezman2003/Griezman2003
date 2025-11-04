@@ -37,7 +37,7 @@ Hello! My name is Gamaliel. I am acquiring knowledge in the field of web develop
     <!-- Laravel -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
 
-  <img src="https://flanger.dev/img/asset/bWVkaWEvYmxvZ19pbWFnZXMvZmlsYW1lbnQucG5n/filament.png?w=960&fm=webp&s=c6dee8abdade8c5abc29e6093ff21573" alt="Laravel" width="100" height="100" style="object-fit: contain; margin-right: 10px;">
+ <!-- <img src="https://flanger.dev/img/asset/bWVkaWEvYmxvZ19pbWFnZXMvZmlsYW1lbnQucG5n/filament.png?w=960&fm=webp&s=c6dee8abdade8c5abc29e6093ff21573" alt="Laravel" width="100" height="100" style="object-fit: contain; margin-right: 10px;"> -->
   
   <br>
   <br>
